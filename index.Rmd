@@ -134,4 +134,9 @@ Selected Positions {data-icon=suitcase}
 position_data %>% print_section('positions')
 ```
 
+Research Positions {data-icon=line-chart}
+------------------------------------------------------------------------------
 
+```{r}
+position_data %>% print_section('research_positions')
+```
